@@ -7,7 +7,7 @@ public class p03_basic {
         int result = x<y ? (y-x) : (x-y);
         System.out.println(result);
         System.out.println();
-        int number = 19841;
+        int number = 3699;
         int hour = number / 3600;
         int minute = (number%3600) / 60;
         int second = (number%60);
